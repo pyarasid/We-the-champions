@@ -8,7 +8,6 @@ html, body {
     display: flex;
     flex-direction: column;
     width: 390px;
-    height: 100vh;
     background-color: #252525;
     margin-left: auto;
     margin-right: auto;    
@@ -71,7 +70,6 @@ h1{
  ul {    
     list-style-type: none;
     width: 317px;
-    height: 72px;
     margin-top: -5px;
   }
 
