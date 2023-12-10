@@ -82,4 +82,5 @@ h1{
    padding: 15px;
    border: none;
    margin-top: 12px;
+   word-break: break-all;  
  }
